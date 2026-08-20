@@ -1,0 +1,26 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Pp]ackages/manifest.json
+/[Pp]rojectSettings/
+/*.csproj
+/*.sln
+/*.unityproj
+/*.pidb
+/*.suo
+/*.user
+/*.userprefs
+/*.unitypackage
+/*.apk
+/*.aab
+*.DS_Store
+*.log
+*.pid
+*.seed
+
+# Asset Store packages
+Assets/Plugins/Photon*
